@@ -39,3 +39,37 @@ title: "Building Your Core Group"
 
 9.  If you don't know, how can you find someone who might?
     [____________________]
+
+## Greg Wilson
+
+1.  The essential principle is belief that tech should be truly open to all,
+    not just in the negative sense ("there's no rule that says you can't take part")
+    but in the positive sense ("it's truly accessible and welcoming to everyone").
+
+2.  The organization needs fundraising and recruitment.
+
+3.  We want groups like Black Girls Code,
+    SACNAS,
+    and the apprenticeship program at Pinterest to take part.
+
+4.  The founders/leaders of these groups are their representatives.
+
+5.  We do not have people from all of these groups in our organization yet.
+
+6.  The people we *do* have are a handful of those who helped organize the 2015 meeting
+    (see <http://t3summit.org>).
+
+7.  We are missing representatives from dozens of other groups.
+
+8.  As above,
+    we hope their founders/leaders will represent them.
+    We also hope to involve some of the participants in those groups,
+    i.e.,
+    we would like to have both someone who organized PyLadies
+    and someone who was helped by PyLadies.
+
+9.  This is going to have to be word of mouth and personal contact:
+    there isn't an organization yet that binds groups like this together
+    (or if there is, we haven't found it).
+    The [ACM Richard Tapia Celebration of Diversity in Computing](http://tapiaconference.org/)
+    is a likely starting point as well.

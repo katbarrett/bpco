@@ -39,3 +39,29 @@ title: "Building Your Core Group"
     *   No
 
 10. When I volunteer, I like to [____________________].
+
+## Greg Wilson
+
+1.  I am good at taking the first step in a new project
+    and at talking people into things.
+
+2.  My default mode of operation is to work on my own,
+    figuring out my next step as I go.
+
+3.  I am detail-oriented when it comes to technical things like programming,
+    but very much *not* detail-oriented when it comes to organizational things like budgets and schedules.
+
+4.  Yes, I tend to see the big picture and miss the details.
+
+5.  No, I am *not* good at planning.
+
+6.  No, I do *not* think first and plan carefully.
+
+7.  Yes, I tend to act first and plan later (if at all).
+
+8.  No, I do not weigh decision carefully.
+
+9.  Yes, I tend to be intuitive.
+
+10. When I volunteer, I like to get started right away.
+    (I also like to be in charge, but I'm working on that...)

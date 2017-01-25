@@ -18,3 +18,7 @@ go. Try one of the following as a guide. Just fill in the blanks:
 *   I see a street where… [____________________]
 
 *   I see a (fill in the blank with whatever it is you are trying to change) where… [____________________]
+
+## Kat
+
+I see a group of curious and caring people at all skill levels who are working together to build a space where anyone can practice digital fabrication, woodworking, code, and electronics. 

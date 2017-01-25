@@ -33,3 +33,9 @@ Comments: [____________________]
 8.  Do other members of the group also share these beliefs?
     *   Yes
     *   No
+
+## Kat
+
+1. Being your true self. Whether that means your capabilities, values, strengths, weaknesses, etc.
+
+2. Working with women who were afraid to be their true selves, especially when working with men. 

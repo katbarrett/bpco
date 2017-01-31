@@ -19,3 +19,10 @@ title: "Crafting a Mission Statement"
     to make sure that everyone gets a chance to speak.
 7.  Then see what the three groups came up with.
 8.  Slowly see if you can craft a sentence that gets the agreement of everyone in the room.
+
+
+## Kat Barrett
+
+Mission statement for STEAMLabs Community Makerspace
+
+1. To provide an environment for makers of all ages and skill levels to explore, practice, and share digital and physical ideas and creations.
